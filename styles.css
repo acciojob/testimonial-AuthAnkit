@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+.upp{
+		background-color : white;
+}
+
+.t1{
+	line-height : 1px;
+	padding:2%;
+}
+
+	/*  your css code here. If applicable */
+.low{
+		background-color : white;
+}
+
+.t2{
+	line-height : 1px;
+	padding:2%;
+}
